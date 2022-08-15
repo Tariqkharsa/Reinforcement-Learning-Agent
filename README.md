@@ -5,4 +5,4 @@
 - SARSA
 - Q-learning Greedy
 _ Q-learning Exploit
-_ Random
+_ Random 
