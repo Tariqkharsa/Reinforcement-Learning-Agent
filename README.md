@@ -3,6 +3,6 @@
 4 Algorithms for the agent to learn from the environment
 
 - SARSA
-- Q-learning Greedy
-_ Q-learning Exploit
+- Qlearning Greedy
+_ Qlearning Exploit
 _ Random 
